@@ -1,6 +1,6 @@
 # apt-chart-comments
 
-서울 아파트 실거래가 대시보드([data-viz](https://data-viz-fawn.vercel.app))의 **Utterances 댓글 저장소**입니다.
+서울 아파트 실거래가 대시보드([data-viz](https://data-viz-fawn.vercel.app))의 **댓글 저장소**입니다.
 
 ## 역할
 
@@ -9,10 +9,10 @@
 
 ## 관련 프로젝트
 
-| 프로젝트 | 설명 |
-|----------|------|
-| [FastAI-24/apt-chart](https://github.com/FastAI-24/apt-chart) | 서울 아파트 실거래가 대시보드 (data-viz) |
-| [house-price-prediction](https://github.com/AIBootcamp24th/house-price-prediction-team-2) | ML 예측 모델 |
+| 프로젝트                                                              | 설명                                     |
+| --------------------------------------------------------------------- | ---------------------------------------- |
+| [FastAI-24/apt-chart](https://github.com/FastAI-24/apt-chart)         | 서울 아파트 실거래가 대시보드 (data-viz) |
+| [house-price-prediction](https://github.com/FastAI-24/Eda-processing) | ML 예측 모델                             |
 
 ## Utterances 설정
 
