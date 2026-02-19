@@ -13,12 +13,3 @@
 | --------------------------------------------------------------------- | ---------------------------------------- |
 | [FastAI-24/apt-chart](https://github.com/FastAI-24/apt-chart)         | 서울 아파트 실거래가 대시보드 (data-viz) |
 | [house-price-prediction](https://github.com/FastAI-24/Eda-processing) | ML 예측 모델                             |
-
-## Utterances 설정
-
-- **repo**: `alstjd0051/apt-chart-comments`
-- **issue-term**: URL + 해시 (예: `https://data-viz-fawn.vercel.app/comments#comments-data-source`)
-
-## 주의
-
-이 저장소는 **댓글 전용**이며, 코드가 없습니다. Utterances 앱이 자동으로 이슈를 생성·관리합니다.
